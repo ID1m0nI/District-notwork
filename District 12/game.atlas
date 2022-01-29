@@ -1,0 +1,27 @@
+
+game.png
+size: 256, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Campus
+  rotate: false
+  xy: 4, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Campus
+  rotate: false
+  xy: 4, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Campus
+  rotate: false
+  xy: 4, 4
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
